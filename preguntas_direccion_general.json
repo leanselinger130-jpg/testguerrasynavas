@@ -33,7 +33,7 @@
             "La de la empresa sobre el entorno",
             "Ambas tienen exactamente el mismo peso",
             "La del entorno sobre la empresa",
-            "Ninguna: empresa y entorno son independientes"
+            "Ninguna: son independientes entre sí"
           ],
           "correcta": 2,
           "justificacion": "Ambos se influyen mutuamente, pero la cátedra aclara que la influencia del entorno sobre la empresa es la más fuerte."
@@ -54,10 +54,10 @@
           "id": "1.4",
           "pregunta": "La clave para que las acciones estratégicas logren mejorar el rendimiento es:",
           "opciones": [
-            "Tener mayor tamaño que los rivales",
-            "Obtener subsidios del Estado",
-            "Fijar el precio más bajo del mercado",
-            "Conseguir una ventaja competitiva sostenible en el tiempo"
+            "Superar a los rivales en tamaño y volumen de producción",
+            "Obtener subsidios y protección arancelaria del Estado",
+            "Fijar el precio más bajo del mercado de forma sostenida",
+            "Lograr una ventaja competitiva sostenible en el tiempo"
           ],
           "correcta": 3,
           "justificacion": "La ventaja competitiva sostenible, creada y mantenida con una buena gestión de recursos y capacidades valiosos, es lo que permite rendir más que los competidores a lo largo del tiempo."
@@ -102,10 +102,10 @@
           "id": "1.8",
           "pregunta": "Según el esquema de la cátedra, la aplicación de los criterios de adecuación, factibilidad y aceptabilidad se realiza:",
           "opciones": [
-            "Durante el análisis externo",
-            "Durante el análisis interno",
-            "En la evaluación y selección de estrategias, antes de la puesta en marcha",
-            "Al elaborar el FODA"
+            "En el análisis externo, al identificar oportunidades y amenazas",
+            "En el análisis interno, al valorar recursos y capacidades",
+            "En la evaluación y selección de estrategias, antes de implantarlas",
+            "Al elaborar el FODA, como síntesis del análisis estratégico"
           ],
           "correcta": 2,
           "justificacion": "Una vez diseñadas las alternativas, se evalúan con esos criterios para elegir la mejor a priori; luego viene la puesta en marcha."
@@ -126,10 +126,10 @@
           "id": "1.10",
           "pregunta": "En la metáfora del rompecabezas usada en el video introductorio, la dirección estratégica es la disciplina que:",
           "opciones": [
-            "Integra las distintas áreas funcionales en una visión global de la empresa",
-            "Reemplaza a las áreas de finanzas y marketing",
-            "Se ocupa solo de la planificación financiera",
-            "Analiza únicamente el entorno competitivo"
+            "Integra las áreas funcionales en una visión global de la empresa",
+            "Coordina el presupuesto de las áreas de finanzas y marketing",
+            "Se ocupa de la planificación financiera y de inversiones a largo plazo",
+            "Analiza el entorno competitivo para anticipar oportunidades y amenazas"
           ],
           "correcta": 0,
           "justificacion": "Finanzas, producción, marketing y RRHH son piezas; la dirección estratégica las encaja con un enfoque integrador."
@@ -157,10 +157,10 @@
           "id": "2.2",
           "pregunta": "Los objetivos generales de la empresa resultan, finalmente, de:",
           "opciones": [
-            "La imposición de los accionistas",
-            "La decisión exclusiva del equipo directivo",
-            "Un proceso de negociación y ajuste entre los objetivos de los grupos de interés",
-            "La regulación del Estado"
+            "Las metas que fijan los accionistas en la junta general anual",
+            "La decisión del equipo directivo, según su propio criterio técnico",
+            "La negociación entre los objetivos de los distintos grupos de interés",
+            "Las exigencias que establece la regulación del Estado sobre la empresa"
           ],
           "correcta": 2,
           "justificacion": "Como los recursos son limitados y los objetivos entran en conflicto, se negocian para que todos los grupos alcancen un nivel suficiente."
@@ -181,10 +181,10 @@
           "id": "2.4",
           "pregunta": "En la valoración de los grupos de interés, la legitimidad se refiere a:",
           "opciones": [
-            "La capacidad real de imponer sus objetivos",
+            "La capacidad real que tiene el grupo para imponer sus objetivos a la empresa",
             "La importancia que el grupo da a sus objetivos y la actividad que despliega",
-            "El tamaño económico del grupo",
-            "El nivel de aceptación social de sus objetivos según los valores del sistema social"
+            "El peso económico del grupo y los recursos que aporta a la empresa",
+            "La aceptación social de sus objetivos según los valores del sistema social"
           ],
           "correcta": 3,
           "justificacion": "Poder = capacidad de imponer; legitimidad = aceptación social; urgencia = importancia y actividad desplegada."
@@ -193,10 +193,10 @@
           "id": "2.5",
           "pregunta": "El criterio de urgencia de un grupo de interés está asociado a:",
           "opciones": [
-            "Su autoridad formal dentro de la empresa",
-            "La aceptación social de sus objetivos",
-            "La importancia que otorga a lograr sus objetivos y la actividad que despliega para conseguirlos",
-            "La cantidad de miembros del grupo"
+            "La autoridad formal que el grupo tiene dentro de la estructura de la empresa",
+            "La aceptación social de sus objetivos según los valores imperantes",
+            "La importancia que da a sus objetivos y la actividad que despliega por ellos",
+            "La cantidad de miembros del grupo y los recursos económicos que controla"
           ],
           "correcta": 2,
           "justificacion": "Es uno de los tres criterios (poder, legitimidad, urgencia) que determinan la relevancia de cada grupo."
@@ -217,10 +217,10 @@
           "id": "2.7",
           "pregunta": "El conflicto entre propiedad y dirección se explica principalmente por:",
           "opciones": [
-            "La asimetría informativa y las funciones de utilidad distintas de accionistas y directivos",
-            "La falta de un consejo de administración",
-            "La presencia de sindicatos",
-            "La competencia en el mercado de bienes"
+            "La asimetría informativa y los intereses distintos de accionistas y directivos",
+            "La falta de un consejo de administración que represente a los accionistas",
+            "La presión de los sindicatos sobre las decisiones de la dirección",
+            "La intensidad de la competencia en el mercado de bienes y servicios"
           ],
           "correcta": 0,
           "justificacion": "Los directivos saben más de la empresa y buscan retribución, poder o permanencia; los accionistas, maximizar su riqueza."
@@ -241,10 +241,10 @@
           "id": "2.9",
           "pregunta": "¿Cuál de estos es un mecanismo INTERNO de control directivo?",
           "opciones": [
-            "El mercado de capitales",
-            "El mercado de trabajo de directivos",
-            "Los sistemas de incentivos, como bonos o promoción interna",
-            "El mercado de bienes y servicios finales"
+            "La disciplina que impone el mercado de capitales",
+            "La competencia en el mercado de trabajo de directivos",
+            "Los sistemas de incentivos, como bonos o promoción",
+            "La presión del mercado de bienes y servicios finales"
           ],
           "correcta": 2,
           "justificacion": "Internos: supervisión directa (consejo, códigos de buen gobierno) e incentivos. Los mercados son mecanismos externos."
@@ -286,7 +286,7 @@
           "opciones": [
             "Incorporar la idea profunda de triunfo",
             "Ser estable a lo largo del tiempo",
-            "Merecer el esfuerzo y compromiso del personal",
+            "Merecer el esfuerzo y el compromiso de todo el personal",
             "Expresarse en términos de maximización del beneficio"
           ],
           "correcta": 3,
@@ -297,9 +297,9 @@
           "pregunta": "La misión de la empresa se puede entender como la respuesta a:",
           "opciones": [
             "¿Cuál es la esencia de nuestro negocio y cuál queremos que sea?",
-            "¿Qué resultados concretos queremos a corto plazo?",
-            "¿Qué amenazas presenta el entorno?",
-            "¿Qué estructura organizativa necesitamos?"
+            "¿Qué resultados concretos queremos alcanzar a corto y medio plazo?",
+            "¿Qué oportunidades y amenazas nos presenta el entorno competitivo?",
+            "¿Qué estructura organizativa necesitamos para implantar la estrategia?"
           ],
           "correcta": 0,
           "justificacion": "La misión recoge la identidad y la razón de ser de la empresa: una declaración de principios ante la sociedad."
@@ -320,10 +320,10 @@
           "id": "3.5",
           "pregunta": "Los objetivos estratégicos:",
           "opciones": [
-            "Reemplazan a la visión cuando esta es muy ambiciosa",
-            "Son lo mismo que los valores",
-            "Desagregan la visión en retos intermedios con resultados concretos a corto y medio plazo",
-            "Solo se definen en el nivel funcional"
+            "Reemplazan a la visión cuando esta resulta demasiado ambiciosa",
+            "Expresan los valores y principios éticos que guían a la empresa",
+            "Desagregan la visión en retos intermedios con resultados concretos",
+            "Se definen en el nivel funcional, como metas de cada departamento"
           ],
           "correcta": 2,
           "justificacion": "Responden a “¿cómo llegaremos a ser lo que queremos ser?” y hacen operativa la visión."
@@ -344,10 +344,10 @@
           "id": "3.7",
           "pregunta": "La definición de los valores debe incluir las guías de actuación, el compromiso con el comportamiento ético y:",
           "opciones": [
-            "La forma en que la empresa quiere relacionarse con sus grupos de interés relevantes",
-            "El presupuesto anual",
-            "La matriz FODA",
-            "La estructura de capital"
+            "La forma en que la empresa quiere relacionarse con sus grupos de interés",
+            "Los objetivos presupuestarios anuales que se fijan a cada área funcional",
+            "Las fortalezas y debilidades que surgen del análisis interno",
+            "La política de endeudamiento y la estructura de capital deseada"
           ],
           "correcta": 0,
           "justificacion": "Ese tercer aspecto conecta los valores con la responsabilidad social empresaria."
@@ -357,7 +357,7 @@
           "pregunta": "La manera en que la empresa se relaciona con sus grupos de interés y atiende sus objetivos e intereses se vincula con:",
           "opciones": [
             "El gobierno corporativo",
-            "La ventaja de matriz",
+            "La ventaja de matriz de la oficina central",
             "La planificación financiera",
             "La responsabilidad social empresaria"
           ],
@@ -368,10 +368,10 @@
           "id": "3.9",
           "pregunta": "¿Cuál es la diferencia correcta entre visión y misión?",
           "opciones": [
-            "No hay diferencia: son sinónimos",
-            "La misión es cuantitativa y la visión, cualitativa",
-            "La visión apunta al futuro deseado; la misión, a la identidad y la razón de ser",
-            "La visión la fija el Estado y la misión, la empresa"
+            "La visión define la esencia del negocio; la misión, el futuro deseado",
+            "La misión es cuantitativa y medible; la visión, cualitativa y general",
+            "La visión apunta al futuro deseado; la misión, a la razón de ser",
+            "La visión la fija el directorio y la misión, cada área funcional"
           ],
           "correcta": 2,
           "justificacion": "Visión = qué queremos ser. Misión = quiénes somos y cuál es la esencia de nuestro negocio."
@@ -399,10 +399,10 @@
           "id": "4.1",
           "pregunta": "El entorno de la empresa está formado por:",
           "opciones": [
-            "Los recursos y capacidades que controla la empresa",
-            "Los factores externos que influyen en sus decisiones y resultados pero escapan a su control",
-            "Únicamente sus competidores directos",
-            "Las áreas funcionales de la organización"
+            "Los recursos y capacidades que la empresa controla y puede gestionar",
+            "Los factores externos que influyen en sus resultados y escapan a su control",
+            "Los competidores directos que operan en su mismo mercado de referencia",
+            "Las áreas funcionales de la organización y sus relaciones internas"
           ],
           "correcta": 1,
           "justificacion": "Al ser externos, esos factores escapan a su control; se trata de identificar oportunidades y amenazas."
@@ -411,9 +411,9 @@
           "id": "4.2",
           "pregunta": "El entorno general se refiere a:",
           "opciones": [
-            "El sector industrial al que pertenece la empresa",
-            "Los clientes directos",
-            "Los competidores del mismo grupo estratégico",
+            "El sector industrial al que pertenece la empresa y sus competidores",
+            "Los clientes directos y los mercados en los que vende la empresa",
+            "Los competidores que forman parte del mismo grupo estratégico",
             "El sistema socioeconómico en el que la empresa desarrolla su actividad"
           ],
           "correcta": 3,
@@ -460,7 +460,7 @@
           "pregunta": "¿Cuál de estas herramientas NO pertenece al análisis del entorno general?",
           "opciones": [
             "El análisis PESTEL",
-            "El perfil estratégico del entorno",
+            "El perfil estratégico del entorno general",
             "El diamante de Porter",
             "El modelo de las cinco fuerzas de Porter"
           ],
@@ -471,10 +471,10 @@
           "id": "4.7",
           "pregunta": "Un distrito industrial (clúster) es:",
           "opciones": [
-            "Un conjunto de empresas e instituciones afines de una misma actividad, localizadas en un entorno geográfico determinado",
-            "Un grupo de empresas que siguen la misma estrategia en una industria",
-            "Una zona franca libre de impuestos",
-            "Una alianza contractual entre competidores"
+            "Empresas e instituciones afines de una actividad, concentradas en una zona geográfica",
+            "Un conjunto de empresas de una misma industria que siguen estrategias iguales o similares",
+            "Una zona franca con beneficios impositivos para radicar empresas industriales",
+            "Una alianza contractual entre competidores para compartir recursos productivos"
           ],
           "correcta": 0,
           "justificacion": "El interés está en las economías de localización: estar dentro del distrito da ventaja frente a quien está afuera. La opción b) define un grupo estratégico."
@@ -483,10 +483,10 @@
           "id": "4.8",
           "pregunta": "¿Por qué la pertenencia a un distrito industrial puede favorecer la competitividad?",
           "opciones": [
-            "Porque elimina la competencia entre sus empresas",
-            "Porque eleva las barreras de entrada para nuevas empresas",
-            "Porque aumenta la productividad por el acceso a recursos especializados",
-            "Porque garantiza subsidios exclusivos"
+            "Porque elimina la competencia entre las empresas que lo integran",
+            "Porque eleva las barreras de entrada para las nuevas empresas",
+            "Porque eleva la productividad al dar acceso a recursos especializados",
+            "Porque garantiza subsidios públicos exclusivos para sus integrantes"
           ],
           "correcta": 2,
           "justificacion": "Los distritos favorecen la productividad, la innovación y la creación de empresas (con barreras de entrada más bajas). Combinan competencia y cooperación."
@@ -507,10 +507,10 @@
           "id": "4.10",
           "pregunta": "El método de los escenarios y el método Delphi se utilizan para:",
           "opciones": [
-            "Delimitar el entorno competitivo",
-            "Medir la rentabilidad de la empresa",
-            "Analizar la posible evolución futura del entorno",
-            "Evaluar los recursos intangibles"
+            "Delimitar el entorno competitivo y el mercado relevante",
+            "Medir la rentabilidad esperada de cada alternativa estratégica",
+            "Anticipar la posible evolución futura del entorno",
+            "Evaluar los recursos intangibles y las capacidades de la empresa"
           ],
           "correcta": 2,
           "justificacion": "Ambos son técnicas prospectivas para anticipar el entorno en el que se implantará la estrategia."
@@ -562,10 +562,10 @@
           "id": "5.4",
           "pregunta": "Según el modelo de Porter, una mayor fragmentación de la industria:",
           "opciones": [
-            "Reduce la rivalidad y aumenta el atractivo",
-            "No afecta a las fuerzas competitivas",
+            "Reduce la rivalidad y aumenta el atractivo de la industria",
+            "No altera la rivalidad, porque cada empresa tiene una cuota pequeña",
             "Aumenta la rivalidad, baja la rentabilidad media y reduce el atractivo",
-            "Aumenta solo el poder de los proveedores"
+            "Eleva las barreras de entrada y protege a las empresas establecidas"
           ],
           "correcta": 2,
           "justificacion": "Es el ejemplo del video: a más fuerza competitiva, menor atractivo."
@@ -574,10 +574,10 @@
           "id": "5.5",
           "pregunta": "Los agentes de frontera, que el modelo original de cinco fuerzas no considera, son por ejemplo:",
           "opciones": [
-            "Administraciones públicas, organizaciones de consumidores y grupos ecologistas",
-            "Los proveedores de materias primas",
-            "Los competidores potenciales",
-            "Los fabricantes de productos sustitutos"
+            "Administraciones públicas, asociaciones de consumidores y ecologistas",
+            "Los proveedores de materias primas y los distribuidores del sector",
+            "Los competidores potenciales que podrían ingresar a la industria",
+            "Los fabricantes de productos sustitutos de otras industrias"
           ],
           "correcta": 0,
           "justificacion": "Pueden alterar positiva o negativamente el atractivo de la industria."
@@ -586,10 +586,10 @@
           "id": "5.6",
           "pregunta": "Los productos complementarios son aquellos que:",
           "opciones": [
-            "Reemplazan al producto de la industria",
-            "Compiten en precio con la industria",
-            "Se venden solo en el mismo grupo estratégico",
-            "Se usan conjuntamente con los de la industria y pueden aumentar el valor percibido"
+            "Reemplazan al producto de la industria y satisfacen la misma necesidad",
+            "Compiten en precio con la industria y limitan su rentabilidad máxima",
+            "Pertenecen al mismo grupo estratégico y siguen estrategias similares",
+            "Se usan junto con los de la industria y elevan su valor percibido"
           ],
           "correcta": 3,
           "justificacion": "Es otra extensión del modelo: su presencia o ausencia afecta el atractivo de la industria."
@@ -598,10 +598,10 @@
           "id": "5.7",
           "pregunta": "¿Por qué el modelo de las cinco fuerzas puede ser poco adecuado en industrias donde las condiciones cambian rápido?",
           "opciones": [
-            "Porque ignora a los clientes",
-            "Porque ofrece una imagen estática de la industria",
-            "Porque solo sirve para competencia perfecta",
-            "Porque no considera la rivalidad"
+            "Porque no incluye el poder de negociación de los clientes",
+            "Porque da una imagen estática de la estructura competitiva",
+            "Porque está pensado para mercados de competencia perfecta",
+            "Porque deja fuera la rivalidad entre competidores actuales"
           ],
           "correcta": 1,
           "justificacion": "El modelo no informa sobre cambios en la estructura competitiva; por eso el libro agrega la dinámica de la industria y las industrias hipercompetitivas."
@@ -610,10 +610,10 @@
           "id": "5.8",
           "pregunta": "Un grupo estratégico se define como:",
           "opciones": [
-            "Un conjunto de empresas de distintas industrias con los mismos clientes",
-            "Una alianza formal entre competidores",
-            "Un conjunto de empresas de una industria que siguen una estrategia igual o similar en una o varias dimensiones estratégicas",
-            "Un distrito industrial"
+            "Un conjunto de empresas de distintas industrias que atienden a los mismos clientes",
+            "Una alianza formal entre competidores de una industria para compartir recursos",
+            "Empresas de una industria que siguen una estrategia similar en dimensiones clave",
+            "Un distrito industrial de empresas afines localizadas en una misma zona"
           ],
           "correcta": 2,
           "justificacion": "Es la segmentación desde el punto de vista de la oferta."
@@ -623,9 +623,9 @@
           "pregunta": "En el mapa de grupos estratégicos, el diámetro de cada círculo representa:",
           "opciones": [
             "La importancia del grupo en el conjunto de la industria",
-            "La rentabilidad del grupo",
-            "La cantidad de dimensiones estratégicas",
-            "Las barreras de movilidad"
+            "La rentabilidad media obtenida por las empresas del grupo",
+            "La cantidad de dimensiones estratégicas que comparte el grupo",
+            "La altura de las barreras de movilidad que protegen al grupo"
           ],
           "correcta": 0,
           "justificacion": "Además, las dos dimensiones del mapa deben ser relevantes y no estar correlacionadas."
@@ -634,9 +634,9 @@
           "id": "5.10",
           "pregunta": "Según el análisis de grupos estratégicos, la competencia suele ser mayor:",
           "opciones": [
-            "Entre empresas de grupos distintos",
-            "Entre empresas de industrias distintas",
-            "Solo entre los líderes de cada grupo",
+            "Entre empresas de grupos estratégicos distintos",
+            "Entre empresas de industrias distintas pero afines",
+            "Entre los líderes de cada grupo por la cuota total",
             "Entre empresas del mismo grupo estratégico"
           ],
           "correcta": 3,
@@ -653,10 +653,10 @@
           "id": "6.1",
           "pregunta": "El objetivo de la cadena de valor de Porter es:",
           "opciones": [
-            "Medir el atractivo de la industria",
+            "Medir el atractivo de la industria en la que compite",
             "Identificar las fuentes de ventaja competitiva de la empresa",
-            "Clasificar a los grupos de interés",
-            "Pronosticar la evolución del entorno"
+            "Clasificar a los grupos de interés según su poder y legitimidad",
+            "Pronosticar la evolución del entorno general de la empresa"
           ],
           "correcta": 1,
           "justificacion": "Desagrega la empresa en sus actividades básicas para encontrar dónde está la clave de la ventaja."
@@ -678,9 +678,9 @@
           "pregunta": "La infraestructura de la empresa, como actividad de apoyo, incluye:",
           "opciones": [
             "Planificación, control, contabilidad, finanzas y asesoría jurídica",
-            "La compra de materias primas",
-            "El almacenamiento de productos terminados",
-            "El mantenimiento del producto vendido"
+            "La compra de materias primas, suministros y demás insumos productivos",
+            "El almacenamiento y la distribución de los productos terminados",
+            "El mantenimiento, la reparación y la atención del producto vendido"
           ],
           "correcta": 0,
           "justificacion": "Las compras son aprovisionamiento; el almacenamiento de terminados es logística externa; el mantenimiento es posventa."
@@ -701,10 +701,10 @@
           "id": "6.5",
           "pregunta": "Para que los eslabones verticales sean posibles, es preciso que:",
           "opciones": [
-            "La empresa controle a sus proveedores",
-            "Beneficien tanto a la empresa como a los demás miembros del sistema de valor",
-            "Se eliminen los sistemas de información",
-            "Se realicen solo dentro de la empresa"
+            "La empresa controle accionarialmente a sus proveedores y clientes",
+            "Beneficien a la empresa y a los demás miembros del sistema de valor",
+            "La empresa integre verticalmente todas las etapas de la cadena",
+            "Se apoyen en las actividades de apoyo internas de la empresa"
           ],
           "correcta": 1,
           "justificacion": "Los eslabones verticales conectan con proveedores y clientes y requieren beneficio mutuo."
@@ -713,10 +713,10 @@
           "id": "6.6",
           "pregunta": "Una capacidad se define como:",
           "opciones": [
-            "La habilidad para llevar a cabo una actividad concreta, que combina recursos con rutinas organizativas",
-            "Un activo tangible registrado en el balance",
-            "El conjunto de factores que controla la empresa",
-            "El margen entre precio y coste"
+            "La habilidad para realizar una actividad, combinando recursos con rutinas",
+            "Un activo tangible que la empresa registra en su balance contable",
+            "El conjunto de factores o activos que la empresa controla y posee",
+            "La diferencia entre el valor que percibe el cliente y el coste total"
           ],
           "correcta": 0,
           "justificacion": "Los recursos rara vez crean valor solos: deben combinarse y gestionarse, y ahí aparece la capacidad."
@@ -725,10 +725,10 @@
           "id": "6.7",
           "pregunta": "Una patente es un recurso:",
           "opciones": [
-            "Tangible físico",
-            "Intangible humano",
+            "Tangible físico o material",
+            "Intangible humano, de conocimiento",
             "Intangible no humano tecnológico",
-            "Tangible financiero"
+            "Intangible no humano organizativo"
           ],
           "correcta": 2,
           "justificacion": "Los intangibles no humanos son tecnológicos (patentes, diseños, bases de datos) u organizativos (marca, prestigio, reputación)."
@@ -737,9 +737,9 @@
           "id": "6.8",
           "pregunta": "El criterio de transferibilidad de un recurso se refiere a:",
           "opciones": [
-            "Su mantenimiento en el tiempo",
-            "La posibilidad de copiarlo",
-            "La existencia de recursos alternativos",
+            "Su capacidad de mantenerse en el tiempo sin perder valor",
+            "La posibilidad de que los competidores lo copien",
+            "La existencia de recursos alternativos que lo reemplacen",
             "La existencia o no de un mercado donde adquirirlo"
           ],
           "correcta": 3,
@@ -749,10 +749,10 @@
           "id": "6.9",
           "pregunta": "¿Por qué el capital humano presenta problemas de apropiación de rentas?",
           "opciones": [
-            "Porque no aparece en el balance",
-            "Porque el propietario de las aptitudes y actitudes es el propio trabajador",
-            "Porque es fácilmente imitable",
-            "Porque no tiene relevancia estratégica"
+            "Porque no aparece en el balance ni puede valorarse contablemente",
+            "Porque el dueño de las aptitudes y actitudes es el propio trabajador",
+            "Porque los competidores pueden imitarlo con facilidad y rapidez",
+            "Porque su relevancia estratégica es menor que la de los tangibles"
           ],
           "correcta": 1,
           "justificacion": "La empresa no puede establecer derechos de propiedad sobre él; se protege mediante contratos de trabajo."
@@ -761,10 +761,10 @@
           "id": "6.10",
           "pregunta": "El análisis DAFO (FODA):",
           "opciones": [
-            "Analiza solo el entorno general",
-            "Evalúa exclusivamente los recursos tangibles",
-            "Resume todo el análisis estratégico: debilidades y fortalezas internas, amenazas y oportunidades externas",
-            "Reemplaza a la cadena de valor"
+            "Analiza el entorno general mediante sus factores políticos y económicos",
+            "Evalúa los recursos tangibles e intangibles para valorar la empresa",
+            "Sintetiza el análisis interno y externo en un único diagnóstico",
+            "Reemplaza a la cadena de valor como herramienta del análisis interno"
           ],
           "correcta": 2,
           "justificacion": "Es la síntesis final del análisis estratégico y la base para formular estrategias."
@@ -783,7 +783,7 @@
             "Estar relacionada con un factor clave de éxito del mercado",
             "Ser suficientemente sustancial como para marcar una diferencia",
             "Ser sostenible frente a los cambios del entorno y la competencia",
-            "Ser inatacable en el largo plazo"
+            "Ser inatacable por cualquier competidor en el largo plazo"
           ],
           "correcta": 3,
           "justificacion": "Los tres requisitos son relación con un factor clave de éxito, sustancialidad y sostenibilidad. La cátedra aclara que a largo plazo ninguna ventaja es inatacable."
@@ -793,9 +793,9 @@
           "pregunta": "Una característica de la empresa solo se transforma en ventaja competitiva si:",
           "opciones": [
             "Se traduce en una mayor rentabilidad para la empresa",
-            "Es reconocida por los competidores",
-            "Está protegida por una patente",
-            "Permite bajar el precio de venta"
+            "Es reconocida por los competidores y por los clientes",
+            "Está protegida legalmente por una patente o una marca",
+            "Permite bajar el precio de venta respecto de los rivales"
           ],
           "correcta": 0,
           "justificacion": "El concepto de ventaja competitiva remite necesariamente al de rentabilidad."
@@ -840,10 +840,10 @@
           "id": "7.6",
           "pregunta": "La estrategia competitiva se define como:",
           "opciones": [
-            "El conjunto de acciones ofensivas o defensivas con las que la empresa enfrenta a sus competidores para lograr una ventaja",
-            "La definición del campo de actividad de la empresa",
-            "La elección de los países donde operar",
-            "El plan financiero anual"
+            "Las acciones ofensivas o defensivas para enfrentar a los competidores",
+            "La definición del campo de actividad y de los negocios en los que estará",
+            "La elección de los países y mercados geográficos donde va a operar",
+            "El plan financiero anual que asigna los recursos a cada área"
           ],
           "correcta": 0,
           "justificacion": "Es la vía por la que la empresa alcanza una ventaja competitiva. Las opciones b) y c) son decisiones corporativas."
@@ -888,10 +888,10 @@
           "id": "7.10",
           "pregunta": "Respecto de la rentabilidad final del liderazgo en costes frente a la diferenciación, Guerras y Navas sostienen que:",
           "opciones": [
-            "El liderazgo en costes siempre es más rentable",
-            "La diferenciación siempre es más rentable",
-            "Es difícil establecer la superioridad de una sobre otra; depende de sus fuentes, condiciones, barreras a la imitación y riesgos",
-            "Ambas son incompatibles con la rentabilidad"
+            "El liderazgo en costes es más rentable por su mayor volumen de ventas",
+            "La diferenciación es más rentable porque permite cobrar precios mayores",
+            "No hay una superior: depende de sus fuentes, condiciones, barreras y riesgos",
+            "Ambas rinden igual a largo plazo, porque las ventajas acaban imitándose"
           ],
           "correcta": 2,
           "justificacion": "Cada empresa debe conocer fuentes, condiciones, barreras y riesgos de cada una para aplicar la más adecuada."
@@ -907,7 +907,7 @@
           "id": "8.1",
           "pregunta": "El ciclo de vida de una industria depende fundamentalmente de:",
           "opciones": [
-            "El número de competidores",
+            "El número y tamaño de los competidores",
             "La tasa de crecimiento de la demanda",
             "El nivel de precios",
             "La tecnología disponible"
@@ -932,9 +932,9 @@
           "pregunta": "En una industria en crecimiento, la clave del éxito está en:",
           "opciones": [
             "Mantener la posición competitiva relativa",
-            "Retirarse rápidamente",
-            "Cosechar el negocio",
-            "Reducir al mínimo las inversiones"
+            "Retirarse antes de que caigan los precios",
+            "Cosechar el negocio maximizando la caja",
+            "Reducir al mínimo las inversiones en capacidad"
           ],
           "correcta": 0,
           "justificacion": "Se logra con reconocimiento de marca, diferenciación de producto y reducción de costes."
@@ -979,10 +979,10 @@
           "id": "8.7",
           "pregunta": "La estrategia de segmentación en una industria en declive consiste en:",
           "opciones": [
-            "Vender el negocio",
-            "Ser el líder de toda la industria",
-            "Maximizar el flujo de caja",
-            "Identificar una parte de la industria que se mantenga o decaiga más lentamente"
+            "Vender el negocio a otra empresa lo antes posible",
+            "Convertirse en el líder de toda la industria que decae",
+            "Maximizar el flujo de caja reduciendo las inversiones",
+            "Buscar una parte de la industria que decaiga más lentamente"
           ],
           "correcta": 3,
           "justificacion": "Es una de las cuatro estrategias que recomiendan Harrigan y Porter para el declive."
@@ -991,10 +991,10 @@
           "id": "8.8",
           "pregunta": "Que la telefonía móvil sea madura en países desarrollados, esté en crecimiento en países en desarrollo y sea emergente en los menos desarrollados muestra que:",
           "opciones": [
-            "El ciclo de vida es igual en todos los países",
-            "La telefonía está en declive",
-            "La evolución de una industria no es uniforme entre países y depende de su nivel de desarrollo",
-            "Es un caso de desmaduración industrial"
+            "El ciclo de vida de una industria es igual en todos los países",
+            "La telefonía móvil ya entró en declive a escala mundial",
+            "La evolución de una industria difiere entre países según su desarrollo",
+            "Es un caso de desmaduración de la industria por un cambio tecnológico"
           ],
           "correcta": 2,
           "justificacion": "La etapa del ciclo varía según el grado de desarrollo de cada país."
@@ -1003,10 +1003,10 @@
           "id": "8.9",
           "pregunta": "En las industrias emergentes, las estrategias recomendadas pasan por:",
           "opciones": [
-            "Cosechar y retirarse",
-            "Influir en la configuración futura de la industria, decidir cuándo entrar y gestionar el riesgo",
-            "Consolidar la cuota con guerras de precios",
-            "Diversificar hacia industrias maduras"
+            "Cosechar el negocio y retirarse antes de que madure la industria",
+            "Configurar la industria, elegir el momento de entrada y gestionar el riesgo",
+            "Consolidar la cuota de mercado mediante guerras de precios agresivas",
+            "Diversificar hacia industrias maduras para compensar la incertidumbre"
           ],
           "correcta": 1,
           "justificacion": "Hay altos costes, bajos volúmenes, demanda lenta y gran incertidumbre: por eso se prioriza configurar la industria, el momento de entrada y el riesgo."
@@ -1015,10 +1015,10 @@
           "id": "8.10",
           "pregunta": "Se dice que una industria entra en declive cuando:",
           "opciones": [
-            "Cae la demanda durante una recesión puntual",
-            "Aumenta el número de competidores",
-            "Se produce una disminución constante de la demanda, no debida a razones coyunturales",
-            "Se estabiliza la tasa de crecimiento"
+            "La demanda cae durante una recesión económica puntual del país",
+            "Aumenta el número de competidores y baja la rentabilidad media",
+            "La demanda disminuye de forma constante, no por razones coyunturales",
+            "La tasa de crecimiento de la demanda se estabiliza en valores bajos"
           ],
           "correcta": 2,
           "justificacion": "La caída es estructural y suele implicar que la industria es sustituida total o parcialmente por otra."
@@ -1034,10 +1034,10 @@
           "id": "9.1",
           "pregunta": "Según Collis y Montgomery, la estrategia corporativa es:",
           "opciones": [
-            "La forma en que la empresa crea valor mediante la configuración y coordinación de sus negocios",
-            "La forma de competir en cada negocio",
-            "La estrategia de cada área funcional",
-            "El sistema de control de gestión"
+            "Cómo crea valor la empresa al configurar y coordinar sus negocios",
+            "La forma en que la empresa compite dentro de cada uno de sus negocios",
+            "La estrategia que define cada área funcional para cumplir sus metas",
+            "El sistema de control de gestión que evalúa a las unidades de negocio"
           ],
           "correcta": 0,
           "justificacion": "Se refiere al campo de actividad o cartera de negocios, que puede modificarse con el tiempo."
@@ -1046,10 +1046,10 @@
           "id": "9.2",
           "pregunta": "Las decisiones sobre el desarrollo de la empresa dependen de dos problemas básicos:",
           "opciones": [
-            "Costes y diferenciación",
-            "Visión y misión",
+            "La reducción de costes y la diferenciación del producto",
+            "La definición de la visión y de la misión de la empresa",
             "La dirección del desarrollo y el método de desarrollo",
-            "Entorno general y competitivo"
+            "El análisis del entorno general y del entorno competitivo"
           ],
           "correcta": 2,
           "justificacion": "Dirección = hacia dónde (expansión, diversificación…); método = cómo (desarrollo interno o externo)."
@@ -1058,10 +1058,10 @@
           "id": "9.3",
           "pregunta": "La estrategia de consolidación implica:",
           "opciones": [
-            "Crecer con nuevos productos",
-            "Abandonar negocios",
-            "Entrar en nuevos mercados",
-            "Mantener los negocios actuales en sus niveles actuales, sin crecimiento ni cambio del campo de actividad"
+            "Crecer mediante el lanzamiento de nuevos productos propios",
+            "Abandonar negocios poco rentables para recomponer la cartera",
+            "Entrar en nuevos mercados geográficos con los productos actuales",
+            "Mantener los negocios actuales, sin crecer ni cambiar de actividad"
           ],
           "correcta": 3,
           "justificacion": "Suele darse en industrias maduras o en declive para proteger la posición actual."
@@ -1070,7 +1070,7 @@
           "id": "9.4",
           "pregunta": "La penetración en el mercado consiste en:",
           "opciones": [
-            "Lanzar nuevos productos en mercados tradicionales",
+            "Lanzar productos nuevos en los mercados tradicionales de la empresa",
             "Crecer en ventas sin cambiar de productos ni de mercados",
             "Vender productos tradicionales en nuevos mercados",
             "Entrar en nuevos productos y mercados a la vez"
@@ -1082,10 +1082,10 @@
           "id": "9.5",
           "pregunta": "La diversificación supone que la empresa:",
           "opciones": [
-            "Se introduce simultáneamente en nuevos productos y nuevos mercados",
+            "Se introduce a la vez en nuevos productos y nuevos mercados",
             "Crece en su mercado actual con sus productos actuales",
-            "Reduce su cartera de negocios",
-            "Mantiene su posición sin crecer"
+            "Reduce su cartera y se concentra en su negocio principal",
+            "Mantiene su posición actual sin crecer ni cambiar de negocio"
           ],
           "correcta": 0,
           "justificacion": "Implica cierta ruptura con la situación actual; siempre supone crecimiento y modificación del campo de actividad."
@@ -1118,10 +1118,10 @@
           "id": "9.8",
           "pregunta": "El papel genérico de la oficina central (matriz) en una empresa diversificada es:",
           "opciones": [
-            "Competir directamente en cada mercado",
-            "Lograr que la empresa valga más que la suma de sus negocios por separado",
-            "Reducir al mínimo el número de negocios",
-            "Delegar todas las decisiones en las unidades"
+            "Competir directamente en cada mercado con sus propios productos",
+            "Lograr que la empresa valga más que la suma de sus negocios",
+            "Reducir al mínimo el número de negocios que integran la cartera",
+            "Delegar las decisiones en las unidades y limitarse a consolidar"
           ],
           "correcta": 1,
           "justificacion": "Debe crear valor para el conjunto con sus funciones: planificar y asignar recursos, controlar y auditar, y proveer servicios centrales."
@@ -1130,10 +1130,10 @@
           "id": "9.9",
           "pregunta": "La ventaja de matriz es:",
           "opciones": [
-            "El liderazgo en costes de la unidad más grande",
-            "La mayor cuota de mercado de la empresa",
-            "El equivalente de la ventaja competitiva a nivel corporativo: crear más valor que las oficinas centrales rivales",
-            "Una ventaja fiscal de los grupos empresariales"
+            "El liderazgo en costes que logra la unidad de negocio más grande",
+            "La mayor cuota de mercado que suma el grupo en todos sus negocios",
+            "Crear más valor que las oficinas centrales rivales al dirigir la cartera",
+            "La ventaja fiscal que obtienen los grupos al consolidar sus balances"
           ],
           "correcta": 2,
           "justificacion": "Es la condición necesaria para que la oficina central cree valor dirigiendo una empresa diversificada."
@@ -1157,7 +1157,7 @@
             "Una estrella",
             "Una vaca lechera",
             "Un perro",
-            "Un interrogante (dilema)"
+            "Un interrogante"
           ],
           "correcta": 3,
           "justificacion": "Estrella = alto crecimiento y alta cuota; vaca = bajo crecimiento y alta cuota; perro = bajo crecimiento y baja cuota."
@@ -1188,7 +1188,7 @@
             "Expansión y diversificación",
             "Desarrollo interno y desarrollo externo",
             "Fusión y adquisición",
-            "Consolidación y reestructuración"
+            "Consolidación y reestructuración de la cartera"
           ],
           "correcta": 1,
           "justificacion": "Sirven para cualquier dirección de desarrollo. Expansión y diversificación son direcciones, no métodos."
@@ -1197,10 +1197,10 @@
           "id": "10.2",
           "pregunta": "El desarrollo externo es el crecimiento que resulta de:",
           "opciones": [
-            "Construir nuevas instalaciones propias",
-            "Contratar más personal",
-            "Reinvertir beneficios",
-            "La adquisición, participación, asociación o control de empresas o activos que ya estaban en funcionamiento"
+            "La construcción de nuevas instalaciones y plantas propias",
+            "La contratación de más personal y la ampliación de la plantilla",
+            "La reinversión de los beneficios generados por la propia empresa",
+            "La compra, participación o control de empresas ya en funcionamiento"
           ],
           "correcta": 3,
           "justificacion": "Las tres primeras opciones describen el desarrollo interno u orgánico."
@@ -1210,9 +1210,9 @@
           "pregunta": "En una fusión pura:",
           "opciones": [
             "Las empresas se unen en una nueva y desaparecen las anteriores",
-            "Una empresa absorbe a otra, que desaparece",
-            "Una empresa aporta solo parte de su patrimonio",
-            "Ambas conservan su personalidad jurídica"
+            "Una empresa absorbe a la otra, que desaparece como entidad",
+            "Una empresa aporta solo una parte de su patrimonio a la otra",
+            "Ambas empresas conservan su personalidad jurídica propia"
           ],
           "correcta": 0,
           "justificacion": "Absorción = una subsiste y la otra desaparece; aportación parcial de activos = solo se aporta una parte; conservar la personalidad jurídica es propio de la adquisición."
@@ -1221,10 +1221,10 @@
           "id": "10.4",
           "pregunta": "Lo que distingue a una adquisición de una fusión es que en la adquisición:",
           "opciones": [
-            "Desaparecen ambas empresas",
-            "Se crea una empresa conjunta",
+            "Desaparecen ambas empresas para formar una nueva",
+            "Se crea una empresa conjunta entre las dos sociedades",
             "Ambas empresas conservan su personalidad jurídica",
-            "No hay compra de acciones"
+            "Una empresa absorbe a la otra, que deja de existir"
           ],
           "correcta": 2,
           "justificacion": "Una empresa compra un paquete de acciones de otra y ambas subsisten."
@@ -1258,9 +1258,9 @@
           "pregunta": "Cuando dos empresas de una industria se unen y las demás las imitan para no quedar en desventaja, la concentración se explica por:",
           "opciones": [
             "Una respuesta a la tendencia mayoritaria en la industria",
-            "La eficiencia económica",
-            "La construcción de imperios",
-            "La defensa de la competencia"
+            "La búsqueda de eficiencia económica y economías de escala",
+            "La construcción de imperios por parte de los directivos",
+            "Motivos estratégicos, como ganar tamaño internacional"
           ],
           "correcta": 0,
           "justificacion": "Es uno de los motivos que menciona la cátedra: si otros se concentran, las demás se unen o quedan en desventaja."
@@ -1269,10 +1269,10 @@
           "id": "10.8",
           "pregunta": "Una dificultad o riesgo típico del desarrollo externo es:",
           "opciones": [
-            "Su lentitud frente al desarrollo interno",
-            "Que no permite internacionalizarse",
-            "La integración de los sistemas organizativo, cultural y productivo",
-            "Que impide la diversificación no relacionada"
+            "Su lentitud frente al crecimiento por desarrollo interno",
+            "Que no permite a la empresa internacionalizarse con rapidez",
+            "Integrar los sistemas organizativo, cultural y productivo",
+            "Que impide la diversificación hacia negocios no relacionados"
           ],
           "correcta": 2,
           "justificacion": "Su gran ventaja es la rapidez y facilita diversificar o internacionalizarse, pero la negociación y la integración suelen dar resultados peores que los esperados."
@@ -1281,10 +1281,10 @@
           "id": "10.9",
           "pregunta": "La cooperación o alianza entre empresas se caracteriza por:",
           "opciones": [
-            "La desaparición de al menos una empresa",
-            "Establecer vínculos entre empresas sin que ninguna pierda su personalidad jurídica",
-            "La compra de más del 50% de las acciones",
-            "La integración total de sus estructuras"
+            "La desaparición de al menos una de las empresas participantes",
+            "Vincular empresas sin que ninguna pierda su personalidad jurídica",
+            "La compra de más del 50% de las acciones de uno de los socios",
+            "La integración total de las estructuras de todas las empresas"
           ],
           "correcta": 1,
           "justificacion": "Hay acuerdos contractuales, accionariales o en red, y todos los socios mantienen su independencia jurídica."
@@ -1293,9 +1293,9 @@
           "id": "10.10",
           "pregunta": "El proceso de formación de una alianza termina con:",
           "opciones": [
-            "La medición de resultados",
-            "La ruptura del acuerdo",
-            "La elección del socio",
+            "La medición de los resultados obtenidos por la alianza",
+            "La ruptura o renegociación del acuerdo entre los socios",
+            "La elección del socio más adecuado para cooperar",
             "La firma del acuerdo por parte de los socios"
           ],
           "correcta": 3,
@@ -1305,10 +1305,10 @@
           "id": "10.11",
           "pregunta": "¿Cuál de los siguientes NO es un mecanismo para hacer funcionar una alianza?",
           "opciones": [
-            "Una relación de autoridad del socio más grande sobre el resto",
-            "Objetivos y metas claramente definidos",
-            "Recursos y apoyo de la alta dirección",
-            "Mecanismos de resolución de conflictos"
+            "Una relación de autoridad del socio mayor sobre el resto",
+            "Objetivos y metas claramente definidos y compartidos",
+            "Recursos suficientes y apoyo de la alta dirección de cada socio",
+            "Mecanismos acordados para la resolución de conflictos"
           ],
           "correcta": 0,
           "justificacion": "En una alianza no hay relaciones de autoridad entre socios. Los mecanismos incluyen objetivos, recursos, política de personal, diseño organizativo, captación de información y resolución de conflictos."
@@ -1336,10 +1336,10 @@
           "id": "11.1",
           "pregunta": "Según la cátedra, uno de los motivos que justifican la internacionalización de la empresa es:",
           "opciones": [
-            "El tamaño de su oficina central",
-            "Su nivel de endeudamiento",
+            "El tamaño de su oficina central y de su estructura corporativa",
+            "Su nivel de endeudamiento y su acceso a financiación externa",
             "El grado de globalidad de la industria en la que se desempeña",
-            "La antigüedad de la empresa"
+            "La antigüedad de la empresa y su trayectoria en el mercado local"
           ],
           "correcta": 2,
           "justificacion": "Por eso se analizan los tipos de industria según su globalidad y los factores que la determinan."
@@ -1348,10 +1348,10 @@
           "id": "11.2",
           "pregunta": "Una industria es global cuando:",
           "opciones": [
-            "La posición competitiva de una empresa en un país guarda estrecha relación con la que tiene en otros países",
-            "Se puede competir de forma autónoma en cada país",
-            "Las ventajas competitivas son específicas de cada país",
-            "Solo participan empresas multinacionales"
+            "Su posición en un país depende de la que la empresa tiene en otros",
+            "Se puede competir de forma autónoma e independiente en cada país",
+            "Las ventajas competitivas son específicas de cada mercado nacional",
+            "La mayoría de las empresas que compiten en ella son multinacionales"
           ],
           "correcta": 0,
           "justificacion": "Las opciones b) y c) describen una industria multipaís."
@@ -1384,10 +1384,10 @@
           "id": "11.5",
           "pregunta": "La accesibilidad a los mercados internacionales depende de:",
           "opciones": [
-            "El número y tamaño de los competidores",
-            "La especialización nacional",
+            "El número y el tamaño de los competidores de la industria",
+            "El grado de especialización nacional de la oferta mundial",
             "Las barreras de entrada al país y la similitud de la demanda",
-            "La presión por reducir costes"
+            "La presión que soporta la industria para reducir sus costes"
           ],
           "correcta": 2,
           "justificacion": "Las opciones a) y b) son los componentes de la estructura de la oferta, el otro factor de globalización."
@@ -1397,9 +1397,9 @@
           "pregunta": "La estructura de la oferta, como factor de globalización, depende de:",
           "opciones": [
             "La estructura competitiva y el grado de especialización nacional",
-            "Los aranceles y la protección local",
-            "Los gustos y preferencias de los clientes",
-            "La cultura nacional"
+            "Los aranceles y las demás barreras de entrada a cada mercado nacional",
+            "La similitud de los gustos y preferencias de los clientes",
+            "La cultura nacional y las costumbres de cada país de destino"
           ],
           "correcta": 0,
           "justificacion": "Menos competidores y más grandes, y oferta concentrada en pocos países, empujan hacia una industria más global."
@@ -1408,10 +1408,10 @@
           "id": "11.7",
           "pregunta": "La estrategia multipaís o multidoméstica pone el énfasis en:",
           "opciones": [
-            "Reducir costes con productos estandarizados",
-            "Combinar eficiencia global y respuesta local",
-            "Exportar competencias esenciales sin adaptarlas",
-            "Diferenciar la oferta para adaptarla a cada mercado local"
+            "Reducir costes ofreciendo productos estandarizados en todo el mundo",
+            "Combinar la eficiencia global con la capacidad de respuesta local",
+            "Explotar competencias esenciales en el exterior sin adaptarlas",
+            "Diferenciar la oferta para adaptarla a las exigencias de cada país"
           ],
           "correcta": 3,
           "justificacion": "La actuación es específica país por país. Las opciones a), b) y c) describen las estrategias global, transnacional e internacional."
@@ -1420,10 +1420,10 @@
           "id": "11.8",
           "pregunta": "La estrategia internacional corresponde a empresas que:",
           "opciones": [
-            "Tienen alta presión para reducir costes",
-            "No tienen presión ni para reducir costes ni para adaptarse localmente y ofrecen productos muy diferenciados",
-            "Tienen alta presión para adaptarse localmente",
-            "Piensan globalmente y actúan localmente"
+            "Soportan una fuerte presión para reducir costes en todo el mundo",
+            "No sufren presión por costes ni por adaptación local y se diferencian",
+            "Soportan una fuerte presión para adaptarse a cada mercado local",
+            "Buscan pensar globalmente y actuar localmente en cada mercado"
           ],
           "correcta": 1,
           "justificacion": "Su diferenciación suele basarse en competencias esenciales muy apreciadas por algunos clientes en todo el mundo."
@@ -1432,10 +1432,10 @@
           "id": "11.9",
           "pregunta": "Las cuatro estrategias competitivas internacionales se delimitan según dos dimensiones:",
           "opciones": [
-            "Cuota de mercado y crecimiento",
-            "Atractivo de la industria y posición competitiva",
-            "Presión para reducir costes y presión para la adaptación local",
-            "Tamaño y antigüedad de la empresa"
+            "La cuota de mercado relativa y la tasa de crecimiento del mercado",
+            "El atractivo de la industria y la posición competitiva de la empresa",
+            "La presión para reducir costes y la presión para la adaptación local",
+            "El tamaño de la empresa y su experiencia en mercados exteriores"
           ],
           "correcta": 2,
           "justificacion": "Global (costes alta, adaptación baja), multidoméstica (al revés), transnacional (ambas altas) e internacional (ambas bajas)."
@@ -1444,10 +1444,10 @@
           "id": "11.10",
           "pregunta": "La estrategia global se caracteriza por:",
           "opciones": [
-            "Adaptar cada producto a cada país",
-            "Dar autonomía total a cada filial",
-            "Pensar globalmente y actuar localmente",
-            "Priorizar la reducción de costes, con control centralizado en la matriz y productos similares en todos los países"
+            "Adaptar cada producto a las preferencias de los clientes de cada país",
+            "Dar amplia autonomía a cada filial para decidir según su mercado",
+            "Pensar globalmente y actuar localmente, combinando eficiencia y adaptación",
+            "Priorizar la reducción de costes, con control central y productos similares"
           ],
           "correcta": 3,
           "justificacion": "La opción c) describe la transnacional; a) y b), la multidoméstica."
@@ -1463,22 +1463,22 @@
           "id": "12.1",
           "pregunta": "Los criterios de evaluación de estrategias (adecuación, factibilidad y aceptabilidad) se toman de:",
           "opciones": [
-            "Porter",
+            "Mintzberg, Ahlstrand y Lampel",
             "Johnson, Scholes y Whittington",
             "Collis y Montgomery",
             "Kaplan y Norton"
           ],
           "correcta": 1,
-          "justificacion": "Porter = cinco fuerzas y estrategias genéricas; Collis y Montgomery = estrategia corporativa; Kaplan y Norton = cuadro de mando integral."
+          "justificacion": "Mintzberg, Ahlstrand y Lampel = escuelas de pensamiento estratégico; Collis y Montgomery = estrategia corporativa; Kaplan y Norton = cuadro de mando integral."
         },
         {
           "id": "12.2",
           "pregunta": "¿Por qué conviene incluir la opción de “no hacer nada” entre las alternativas estratégicas?",
           "opciones": [
-            "Porque suele ser la mejor opción",
-            "Porque evita conflictos con los grupos de interés",
-            "Porque lo exige el gobierno corporativo",
-            "Porque sirve de referencia para comparar las nuevas estrategias con la situación actual"
+            "Porque suele ser la mejor alternativa en entornos inciertos",
+            "Porque evita conflictos con los grupos de interés más poderosos",
+            "Porque lo exigen los códigos de buen gobierno corporativo",
+            "Porque sirve de referencia para comparar con la situación actual"
           ],
           "correcta": 3,
           "justificacion": "No tiene por qué ser viable, pero muestra qué pasa si se mantienen o empeoran los malos resultados actuales."
@@ -1499,10 +1499,10 @@
           "id": "12.4",
           "pregunta": "La adecuación de una estrategia puede evaluarse a partir de dos enfoques:",
           "opciones": [
-            "Rentabilidad y riesgo",
-            "Poder y legitimidad",
-            "Modelos estratégicos teóricos y evidencia empírica de empresas similares en contextos similares",
-            "Control previo y posterior"
+            "El análisis de la rentabilidad esperada y del riesgo asumido",
+            "El poder y la legitimidad de los grupos de interés implicados",
+            "Los modelos teóricos y la evidencia empírica de empresas similares",
+            "El control previo y el control posterior de los resultados"
           ],
           "correcta": 2,
           "justificacion": "Son los dos enfoques que plantean el libro y el video."
@@ -1511,10 +1511,10 @@
           "id": "12.5",
           "pregunta": "La aceptabilidad es un criterio muy subjetivo porque:",
           "opciones": [
-            "Se basa solo en datos contables",
-            "Depende de las expectativas de los grupos de interés, y hay que preguntarse para quién debe ser aceptable",
-            "La deciden los competidores",
-            "No considera los resultados esperados"
+            "Se basa en datos contables que cada empresa registra a su modo",
+            "Depende de las expectativas de los grupos de interés implicados",
+            "Depende de la reacción que se espera de los competidores",
+            "No considera los resultados económicos que se esperan obtener"
           ],
           "correcta": 1,
           "justificacion": "Ninguna estrategia responde idealmente a todos los grupos; por eso importan su posición y las relaciones de poder."
@@ -1535,10 +1535,10 @@
           "id": "12.7",
           "pregunta": "La cultura organizativa se define como:",
           "opciones": [
-            "El conjunto de normas de comportamiento, valores y creencias compartidos por los miembros de la empresa",
-            "El organigrama formal",
-            "El reglamento interno de trabajo",
-            "La estrategia de recursos humanos"
+            "Las normas, valores y creencias compartidos por los miembros de la empresa",
+            "El organigrama formal que muestra la jerarquía de la empresa",
+            "El reglamento interno que regula el trabajo y la conducta del personal",
+            "La estrategia de recursos humanos definida por la alta dirección"
           ],
           "correcta": 0,
           "justificacion": "Puede facilitar la implantación si es coherente con la estrategia, o impedirla o retrasarla si no lo es."
@@ -1559,10 +1559,10 @@
           "id": "12.9",
           "pregunta": "Ignorar la cultura o bordear los obstáculos culturales solo son opciones razonables cuando:",
           "opciones": [
-            "La cultura es débil",
+            "La cultura de la empresa es débil y poco compartida",
             "El cambio estratégico no es muy importante ni muy urgente",
-            "La empresa es pequeña",
-            "La estrategia es de diversificación"
+            "La empresa es pequeña y con pocos niveles jerárquicos",
+            "La nueva estrategia consiste en diversificar la cartera"
           ],
           "correcta": 1,
           "justificacion": "Si el cambio es importante o urgente, en la mayoría de los casos conviene intentar el cambio cultural."
@@ -1571,10 +1571,10 @@
           "id": "12.10",
           "pregunta": "¿Por qué no suele recomendarse cambiar la estrategia para ajustarla a la cultura?",
           "opciones": [
-            "Porque la cultura es fácil de cambiar",
-            "Porque lo prohíbe el gobierno corporativo",
-            "Porque es más costoso que cambiar la cultura",
-            "Porque implica renunciar a mejores resultados y puede llevar al fracaso si la estrategia vieja quedó obsoleta"
+            "Porque la cultura es fácil de cambiar en el corto plazo",
+            "Porque lo prohíben los códigos de buen gobierno corporativo",
+            "Porque resulta más costoso que cambiar la cultura de la empresa",
+            "Porque implica renunciar a mejores resultados y arriesgar el fracaso"
           ],
           "correcta": 3,
           "justificacion": "Mantener una estrategia obsoleta por un cambio en el entorno puede provocar el fracaso."
@@ -1583,10 +1583,10 @@
           "id": "12.11",
           "pregunta": "¿Sobre qué factores de contexto de la cultura normalmente NO se puede influir?",
           "opciones": [
-            "Los externos",
-            "Los históricos",
+            "Los factores externos, como la cultura nacional",
+            "Los factores históricos, como los fundadores",
             "El comportamiento de la alta dirección",
-            "La política de recursos humanos"
+            "La política de recursos humanos y la estructura"
           ],
           "correcta": 0,
           "justificacion": "Los externos son restricciones dadas por el entorno. Sobre los históricos se actúa con nuevos símbolos, rituales e historias, y sobre los internos, con la dirección, la estructura y los RRHH."
@@ -1596,9 +1596,9 @@
           "pregunta": "El control estratégico:",
           "opciones": [
             "Es la primera etapa del proceso de dirección estratégica",
-            "Solo mide resultados contables anuales",
-            "Es la última etapa y proporciona realimentación a todas las demás",
-            "Reemplaza a la planificación estratégica"
+            "Mide los resultados contables anuales de cada unidad",
+            "Es la última etapa y realimenta a todas las demás etapas",
+            "Reemplaza a la planificación estratégica en entornos dinámicos"
           ],
           "correcta": 2,
           "justificacion": "Su objetivo es analizar y evaluar el proceso para asegurar su correcto funcionamiento y los resultados esperados."
@@ -1619,10 +1619,10 @@
           "id": "12.14",
           "pregunta": "¿Por qué muchas empresas complementan indicadores como la rentabilidad o el EVA con un cuadro de mando integral?",
           "opciones": [
-            "Porque esos indicadores son muy globales y no ayudan a identificar las causas de un mal funcionamiento",
-            "Porque el EVA es ilegal en algunos países",
-            "Porque la rentabilidad no se puede calcular",
-            "Porque el cuadro de mando reemplaza a la contabilidad"
+            "Porque son muy globales y no revelan las causas de un mal resultado",
+            "Porque el EVA no está admitido por las normas contables vigentes",
+            "Porque la rentabilidad no se puede calcular por unidad de negocio",
+            "Porque el cuadro de mando reemplaza a la contabilidad financiera"
           ],
           "correcta": 0,
           "justificacion": "El cuadro de mando integral evalúa variables clave que, si se deterioran, terminan dañando los resultados globales."
@@ -1631,10 +1631,10 @@
           "id": "12.15",
           "pregunta": "Un sistema de control estratégico es eficiente cuando:",
           "opciones": [
-            "Controla todas las variables posibles",
-            "Lo diseña una consultora externa",
-            "Cualquier esfuerzo adicional de control produce una mejora de rendimiento superior a su coste",
-            "Se aplica solo a la alta dirección"
+            "Controla todas las variables posibles en cada área de la empresa",
+            "Lo diseña una consultora externa independiente de la dirección",
+            "Cada esfuerzo adicional de control rinde más de lo que cuesta",
+            "Se aplica a la alta dirección y no a los mandos intermedios"
           ],
           "correcta": 2,
           "justificacion": "Es la condición de eficiencia que plantea la cátedra al cerrar el tema de control."
