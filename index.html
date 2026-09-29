@@ -118,7 +118,7 @@ function ensure(tab){ if(!state[tab]) state[tab] = { items:itemsFor(tab), answer
 function renderTabs(){
   $("tabs").innerHTML = "";
   const tabs = [...BLOQUES.map(b=>[String(b.id),"Bloque "+b.id]), [INTEG,"🔀 Prueba Integradora"]];
-  if (PARCIALES.length) tabs.push(null, ...PARCIALES.map(p=>["p:"+p.id,"📝 "+p.titulo]));
+  if (PARCIALES.length) tabs.push(null, ...PARCIALES.map(p=>["p:"+p.id,(p.tipo==="simulacro"?"🧩 ":"📝 ")+p.titulo]));
   tabs.forEach(t=>{
     if (!t){ const s = document.createElement("span"); s.className = "sep"; $("tabs").appendChild(s); return; }
     const [id,name] = t;
@@ -139,7 +139,7 @@ function renderHead(){
   }
   if (current.startsWith("p:")){
     const p = parcialOf(current);
-    $("head").innerHTML = `<h2>Parcial anterior: ${esc(p.titulo)}</h2><p>${esc(p.nota || "")}</p>`;
+    $("head").innerHTML = `<h2>${p.tipo==="simulacro" ? "Simulacro" : "Parcial anterior"}: ${esc(p.titulo)}</h2><p>${esc(p.nota || "")}</p>`;
     return;
   }
   const b = BLOQUES.find(b => String(b.id) === current);

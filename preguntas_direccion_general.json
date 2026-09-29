@@ -1905,6 +1905,448 @@
           "marcada_en_hoja": 3
         }
       ]
+    },
+    {
+      "id": "sim1",
+      "tipo": "simulacro",
+      "titulo": "Simulacro de casos 1",
+      "nota": "Preguntas de práctica armadas al estilo del parcial (casos aplicados). No son de un examen real.",
+      "preguntas": [
+        {
+          "id": "S1.1",
+          "pregunta": "Una cadena hotelera decide que su área de marketing lance una campaña de fidelización en redes sociales para apoyar la estrategia de diferenciación del grupo. Esta decisión corresponde al nivel:",
+          "opciones": [
+            "Funcional",
+            "Internacional",
+            "Corporativo",
+            "Competitivo o de negocio"
+          ],
+          "correcta": 0,
+          "justificacion": "Es una decisión de un área concreta (marketing) que baja a tierra la estrategia competitiva ya elegida. El nivel competitivo decide cómo competir; el funcional, cómo cada área lo ejecuta."
+        },
+        {
+          "id": "S1.2",
+          "pregunta": "Una ONG ambientalista con amplio apoyo de la opinión pública, pero sin capacidad de sanción sobre la empresa ni acciones en marcha, cuestiona la contaminación de un río. Este grupo de interés destaca sobre todo por su:",
+          "opciones": [
+            "Poder",
+            "Dependencia",
+            "Urgencia",
+            "Legitimidad"
+          ],
+          "correcta": 3,
+          "justificacion": "La legitimidad es la aceptación social de sus objetivos. No tiene poder (no puede imponerse) y, sin acciones en marcha, tampoco muestra urgencia."
+        },
+        {
+          "id": "S1.3",
+          "pregunta": "Una empresa declara: \"Ser la marca de bicicletas urbanas preferida de Latinoamérica\". Esta frase es un ejemplo de:",
+          "opciones": [
+            "Misión",
+            "Valor corporativo",
+            "Visión",
+            "Campo de actividad"
+          ],
+          "correcta": 2,
+          "justificacion": "Responde a \"¿qué queremos ser en el futuro?\": es la visión. La misión describe la esencia actual del negocio y su razón de ser."
+        },
+        {
+          "id": "S1.4",
+          "pregunta": "Se aprueba una nueva ley que obliga a los fabricantes de alimentos a incluir octógonos de advertencia en sus envases. En un análisis PESTEL, este factor es:",
+          "opciones": [
+            "Sociocultural",
+            "Económico",
+            "Tecnológico",
+            "Legal"
+          ],
+          "correcta": 3,
+          "justificacion": "Es una norma jurídica que impone obligaciones a la industria: factor legal. Puede tener efectos sociales o económicos, pero su origen es legal."
+        },
+        {
+          "id": "S1.5",
+          "pregunta": "En la industria de autopartes, tres grandes automotrices compran el 80% de la producción y podrían fabricar ellas mismas las piezas. Esto implica:",
+          "opciones": [
+            "Un alto poder de negociación de los clientes",
+            "Una baja rivalidad entre los fabricantes",
+            "Una alta amenaza de productos sustitutos",
+            "Un bajo poder de negociación de los clientes"
+          ],
+          "correcta": 0,
+          "justificacion": "Clientes concentrados, que compran gran parte de la producción y pueden integrarse hacia atrás, tienen mucho poder de negociación y reducen el atractivo de la industria."
+        },
+        {
+          "id": "S1.6",
+          "pregunta": "Las ventas de consolas de videojuegos crecen cuando aparecen buenos juegos para ellas. Para la industria de consolas, los juegos son:",
+          "opciones": [
+            "Productos complementarios",
+            "Competidores potenciales",
+            "Proveedores de insumos",
+            "Productos sustitutos"
+          ],
+          "correcta": 0,
+          "justificacion": "Se usan junto con el producto de la industria y aumentan su valor percibido: son complementarios, una extensión del modelo de las cinco fuerzas."
+        },
+        {
+          "id": "S1.7",
+          "pregunta": "Una empresa de electrodomésticos ofrece instalación gratuita y reparación a domicilio durante cinco años. En la cadena de valor, esta actividad corresponde a:",
+          "opciones": [
+            "Infraestructura",
+            "Logística externa",
+            "Marketing y ventas",
+            "Servicio posventa"
+          ],
+          "correcta": 3,
+          "justificacion": "Instalación, reparación y mantenimiento después de la venta son servicio posventa, una actividad primaria."
+        },
+        {
+          "id": "S1.8",
+          "pregunta": "Los competidores de un restaurante exitoso no logran copiarlo porque su éxito depende de una mezcla difícil de identificar entre ambiente, trato del personal y tradición. El criterio que protege esta ventaja es:",
+          "opciones": [
+            "Su alta transferibilidad",
+            "Su escasa durabilidad",
+            "Su baja imitabilidad",
+            "Su alta sustituibilidad"
+          ],
+          "correcta": 2,
+          "justificacion": "Cuanto más difícil es copiar un recurso o capacidad (ambigüedad causal, historia propia), más sostenible es la ventaja que genera."
+        },
+        {
+          "id": "S1.9",
+          "pregunta": "Un cliente valora un servicio en $100, paga $70 y a la empresa le cuesta $50 prestarlo. ¿Cuánto es el excedente del consumidor?",
+          "opciones": [
+            "$20",
+            "$30",
+            "$70",
+            "$50"
+          ],
+          "correcta": 1,
+          "justificacion": "Excedente del consumidor = valor percibido − precio = 100 − 70 = 30. El margen es 70 − 50 = 20 y el valor creado total, 100 − 50 = 50."
+        },
+        {
+          "id": "S1.10",
+          "pregunta": "Una empresa que compite solo por tener el precio más bajo ve cómo un rival logra costes todavía menores gracias a una tecnología nueva. Esto ilustra un riesgo típico del:",
+          "opciones": [
+            "Liderazgo en costes",
+            "Diferenciación de producto",
+            "Enfoque en diferenciación",
+            "Desarrollo de productos"
+          ],
+          "correcta": 0,
+          "justificacion": "Un riesgo clásico del liderazgo en costes es que un cambio tecnológico o un rival anule la ventaja de costes en la que se basa."
+        },
+        {
+          "id": "S1.11",
+          "pregunta": "Un fabricante de cámaras de rollo decide no invertir más, subir precios y recortar publicidad para generar la mayor caja posible antes de salir del negocio. Aplica la estrategia de:",
+          "opciones": [
+            "Liderazgo",
+            "Cosecha",
+            "Retirada rápida",
+            "Segmentación"
+          ],
+          "correcta": 1,
+          "justificacion": "La cosecha maximiza el flujo de caja reduciendo inversiones mientras dura el negocio. La retirada rápida vende o cierra de inmediato."
+        },
+        {
+          "id": "S1.12",
+          "pregunta": "Una marca argentina de yerba mate empieza a vender la misma yerba en supermercados de Estados Unidos y Europa. ¿Qué dirección de desarrollo sigue?",
+          "opciones": [
+            "Desarrollo de mercados",
+            "Desarrollo de productos",
+            "Penetración en el mercado",
+            "Diversificación"
+          ],
+          "correcta": 0,
+          "justificacion": "Lleva sus productos actuales a mercados nuevos (otros países): desarrollo de mercados."
+        },
+        {
+          "id": "S1.13",
+          "pregunta": "En la matriz BCG de un grupo, un negocio líder en un mercado maduro, que crece poco y genera mucha caja, es:",
+          "opciones": [
+            "Una estrella",
+            "Un perro",
+            "Una vaca lechera",
+            "Un interrogante"
+          ],
+          "correcta": 2,
+          "justificacion": "Alta cuota relativa y bajo crecimiento: vaca lechera, la que financia a estrellas e interrogantes."
+        },
+        {
+          "id": "S1.14",
+          "pregunta": "Una minera extranjera y una empresa provincial crean una nueva sociedad, con el 50% del capital cada una, para explotar un yacimiento. Esta forma de cooperación es:",
+          "opciones": [
+            "Una fusión pura entre ambas empresas",
+            "Una empresa conjunta (joint venture)",
+            "Una adquisición del 50% del capital",
+            "Una exportación indirecta de mineral"
+          ],
+          "correcta": 1,
+          "justificacion": "Crear una nueva sociedad con capital compartido entre socios independientes es una empresa conjunta, un acuerdo de cooperación accionarial."
+        },
+        {
+          "id": "S1.15",
+          "pregunta": "Una estrategia encaja con las oportunidades del entorno y aprovecha las fortalezas de la empresa, pero exige una inversión que la empresa no puede financiar. Falla el criterio de:",
+          "opciones": [
+            "Consistencia",
+            "Factibilidad",
+            "Adecuación",
+            "Aceptabilidad"
+          ],
+          "correcta": 1,
+          "justificacion": "Es adecuada (encaja con el análisis estratégico), pero no es factible: la empresa no tiene los recursos para llevarla a cabo."
+        },
+        {
+          "id": "S1.16",
+          "pregunta": "Una empresa familiar, jerárquica y reacia al riesgo adopta una estrategia de innovación rápida, y el cambio es importante y urgente. Según la cátedra, lo más recomendable es:",
+          "opciones": [
+            "Ignorar la cultura, porque la estrategia es lo más importante",
+            "Cambiar la estrategia para que encaje con la cultura actual",
+            "Bordear los obstáculos culturales sin tocar la cultura",
+            "Intentar el cambio cultural para alinearla con la estrategia"
+          ],
+          "correcta": 3,
+          "justificacion": "Ignorar o bordear la cultura solo es razonable si el cambio no es importante ni urgente. Adaptar la estrategia a la cultura implica renunciar a mejores resultados."
+        },
+        {
+          "id": "S1.17",
+          "pregunta": "Una fábrica de indumentaria no tenía previsto producir barbijos, pero durante la pandemia empezó a hacerlo por pedidos de clientes y terminó siendo una línea clave. Esa estrategia es:",
+          "opciones": [
+            "Corporativa",
+            "De cosecha",
+            "Emergente",
+            "Deliberada"
+          ],
+          "correcta": 2,
+          "justificacion": "No fue planificada: surgió sobre la marcha en respuesta a un cambio del entorno. Es una estrategia emergente, frente a la deliberada, que se formula de antemano."
+        },
+        {
+          "id": "S1.18",
+          "pregunta": "Las economías de escala y la curva de experiencia son lo mismo, porque ambas dependen del volumen producido en un período. ¿Verdadero o falso?",
+          "opciones": [
+            "Verdadero",
+            "Falso"
+          ],
+          "correcta": 1,
+          "justificacion": "Las economías de escala dependen del volumen por período; la curva de experiencia, de la producción acumulada a lo largo del tiempo. Ambas bajan costes, pero son fenómenos distintos."
+        }
+      ]
+    },
+    {
+      "id": "sim2",
+      "tipo": "simulacro",
+      "titulo": "Simulacro de casos 2",
+      "nota": "Preguntas de práctica armadas al estilo del parcial (casos aplicados). No son de un examen real.",
+      "preguntas": [
+        {
+          "id": "S2.1",
+          "pregunta": "Una empresa formula una estrategia impecable en el papel, pero no adapta su estructura ni sus sistemas de incentivos, y el plan nunca llega a funcionar. Falló principalmente la etapa de:",
+          "opciones": [
+            "Definición de la misión",
+            "Análisis estratégico",
+            "Implantación de la estrategia",
+            "Formulación de estrategias"
+          ],
+          "correcta": 2,
+          "justificacion": "La implantación exige soporte organizativo (estructura, cultura, sistemas de incentivos). No existe una estrategia real hasta que se pone en práctica y funciona."
+        },
+        {
+          "id": "S2.2",
+          "pregunta": "El directorio detecta que el CEO impulsa adquisiciones que agrandan la empresa pero reducen su rentabilidad, porque su bono depende del tamaño de la compañía. La herramienta interna más directa para corregirlo es:",
+          "opciones": [
+            "Atar el bono del CEO a la creación de valor y no al tamaño",
+            "Esperar a que el mercado de capitales castigue la cotización",
+            "Aumentar el endeudamiento para financiar las adquisiciones",
+            "Delegar las decisiones de adquisición en los mandos medios"
+          ],
+          "correcta": 0,
+          "justificacion": "Es un conflicto de agencia: el directivo busca crecer y el accionista, crear valor. Los sistemas de incentivos son un mecanismo interno de control; el mercado de capitales es externo."
+        },
+        {
+          "id": "S2.3",
+          "pregunta": "Tras definir su visión, una empresa fija como meta \"aumentar un 15% la cuota en el segmento premium en los próximos dos años\". Esto es:",
+          "opciones": [
+            "Un valor corporativo",
+            "Una visión de largo plazo",
+            "Un objetivo estratégico",
+            "Una declaración de misión"
+          ],
+          "correcta": 2,
+          "justificacion": "Los objetivos estratégicos desagregan la visión en retos concretos, medibles y con plazo a corto y medio plazo."
+        },
+        {
+          "id": "S2.4",
+          "pregunta": "Al hacer su análisis del entorno, una aerolínea descarta estudiar una pandemia global porque \"es muy improbable\". Según la cátedra, el error es:",
+          "opciones": [
+            "No haber hecho antes el análisis de las cinco fuerzas",
+            "Incluir variables que afectan a toda la industria por igual",
+            "Analizar el entorno general antes que el competitivo",
+            "Descartar una variable de baja probabilidad pero alto impacto"
+          ],
+          "correcta": 3,
+          "justificacion": "Las variables poco probables pero de alto impacto no deben descartarse: si ocurren, pueden poner en riesgo la viabilidad de la empresa."
+        },
+        {
+          "id": "S2.5",
+          "pregunta": "Las plataformas de videollamada redujeron los viajes de negocios en avión. Desde el modelo de Porter, para las aerolíneas las videollamadas son:",
+          "opciones": [
+            "Productos complementarios",
+            "Competidores potenciales",
+            "Agentes de frontera",
+            "Productos sustitutos"
+          ],
+          "correcta": 3,
+          "justificacion": "Satisfacen la misma necesidad (reunirse) con otra tecnología y de otra industria: son sustitutos, que limitan el precio y la rentabilidad."
+        },
+        {
+          "id": "S2.6",
+          "pregunta": "Una cervecería artesanal quiere competir con las grandes marcas industriales, pero choca con la necesidad de plantas enormes y de una red de distribución nacional. Esos obstáculos son:",
+          "opciones": [
+            "Economías de localización del distrito",
+            "Barreras de salida de la industria cervecera",
+            "Agentes de frontera del modelo de Porter",
+            "Barreras de movilidad entre grupos estratégicos"
+          ],
+          "correcta": 3,
+          "justificacion": "Ya está dentro de la industria: lo que le impide pasar de un grupo estratégico (artesanal) a otro (industrial) son las barreras de movilidad."
+        },
+        {
+          "id": "S2.7",
+          "pregunta": "La reputación de una marca centenaria de chocolates es, según la clasificación de recursos, un recurso:",
+          "opciones": [
+            "Tangible físico",
+            "Intangible no humano organizativo",
+            "Intangible no humano tecnológico",
+            "Intangible humano"
+          ],
+          "correcta": 1,
+          "justificacion": "Marca, prestigio y reputación son intangibles no humanos organizativos. Los tecnológicos son patentes, diseños o bases de datos."
+        },
+        {
+          "id": "S2.8",
+          "pregunta": "Una bodega detecta que su marca es poco conocida en el exterior, mientras crece la demanda mundial de vinos de altura. En un FODA, estos dos elementos son, respectivamente:",
+          "opciones": [
+            "Una debilidad y una amenaza",
+            "Una debilidad y una oportunidad",
+            "Una fortaleza y una oportunidad",
+            "Una amenaza y una fortaleza"
+          ],
+          "correcta": 1,
+          "justificacion": "La poca notoriedad es un rasgo interno negativo (debilidad); el crecimiento de la demanda mundial es un factor externo favorable (oportunidad)."
+        },
+        {
+          "id": "S2.9",
+          "pregunta": "Una marca de café cobra un 40% más que sus rivales porque sus clientes valoran su origen certificado y su experiencia de compra. Sigue una estrategia de:",
+          "opciones": [
+            "Liderazgo en costes",
+            "Penetración en el mercado",
+            "Diferenciación de producto",
+            "Integración vertical"
+          ],
+          "correcta": 2,
+          "justificacion": "Amplía su margen subiendo el precio que el cliente está dispuesto a pagar, gracias a atributos que valora: es diferenciación."
+        },
+        {
+          "id": "S2.10",
+          "pregunta": "En los primeros años de los autos eléctricos había pocas ventas, costes muy altos, tecnologías que competían entre sí y gran incertidumbre. La industria estaba en la fase:",
+          "opciones": [
+            "De madurez",
+            "De declive",
+            "Emergente",
+            "De crecimiento"
+          ],
+          "correcta": 2,
+          "justificacion": "Altos costes, bajos volúmenes, demanda lenta e incertidumbre tecnológica son los rasgos típicos de una industria emergente."
+        },
+        {
+          "id": "S2.11",
+          "pregunta": "Una cadena de heladerías compra el tambo que le proveía la leche. Es un ejemplo de:",
+          "opciones": [
+            "Integración vertical hacia atrás",
+            "Diversificación no relacionada",
+            "Integración vertical hacia adelante",
+            "Desarrollo de mercados"
+          ],
+          "correcta": 0,
+          "justificacion": "Pasa a ser su propio proveedor: integración vertical hacia atrás. Hacia adelante sería convertirse en su propio cliente o distribuidor."
+        },
+        {
+          "id": "S2.12",
+          "pregunta": "Un grupo dueño de una cadena de supermercados compra una empresa de energía solar, sin vínculos comerciales ni tecnológicos con su negocio. Es un caso de:",
+          "opciones": [
+            "Integración vertical",
+            "Diversificación no relacionada",
+            "Desarrollo de productos",
+            "Diversificación relacionada"
+          ],
+          "correcta": 1,
+          "justificacion": "Entra en productos y mercados nuevos sin recursos ni actividades en común con su negocio actual: diversificación no relacionada o de conglomerado."
+        },
+        {
+          "id": "S2.13",
+          "pregunta": "Dos laboratorios firman un acuerdo para investigar juntos una vacuna, compartiendo costes y resultados, sin que ninguno pierda su independencia jurídica. Es un ejemplo de:",
+          "opciones": [
+            "Alianza o cooperación",
+            "Fusión por absorción",
+            "Adquisición",
+            "Fusión pura"
+          ],
+          "correcta": 0,
+          "justificacion": "En la cooperación se establecen vínculos entre empresas y todas mantienen su personalidad jurídica. En fusiones alguna desaparece; en la adquisición una controla a la otra."
+        },
+        {
+          "id": "S2.14",
+          "pregunta": "Una cadena de comida rápida cambia su menú, sus recetas y su publicidad en cada país donde opera, y cada filial decide con mucha autonomía. Sigue una estrategia:",
+          "opciones": [
+            "Global",
+            "Multidoméstica",
+            "Internacional",
+            "Transnacional"
+          ],
+          "correcta": 1,
+          "justificacion": "Máxima adaptación local y filiales autónomas: estrategia multidoméstica. La global estandariza y centraliza; la transnacional combina ambas cosas."
+        },
+        {
+          "id": "S2.15",
+          "pregunta": "Una estrategia de cierre de plantas es rentable y la empresa puede financiarla, pero provoca el rechazo frontal de los sindicatos y del gobierno local. El criterio más comprometido es:",
+          "opciones": [
+            "Consistencia",
+            "Factibilidad",
+            "Adecuación",
+            "Aceptabilidad"
+          ],
+          "correcta": 3,
+          "justificacion": "La aceptabilidad incluye la reacción de los grupos de interés (riesgo político). Que sea rentable y financiable no alcanza si los grupos relevantes la rechazan."
+        },
+        {
+          "id": "S2.16",
+          "pregunta": "Durante la ejecución de un plan de expansión, la empresa revisa cada mes los avances para corregir el rumbo sobre la marcha. Este control es:",
+          "opciones": [
+            "Control presente o actual",
+            "Control de resultados",
+            "Control de la misión",
+            "Control previo o preventivo"
+          ],
+          "correcta": 0,
+          "justificacion": "El control presente actúa durante la ejecución. El previo se anticipa antes de empezar y el de resultados evalúa al final."
+        },
+        {
+          "id": "S2.17",
+          "pregunta": "Una ventaja competitiva basada en recursos fácilmente transferibles (que se compran en el mercado) tiende a ser poco sostenible. ¿Verdadero o falso?",
+          "opciones": [
+            "Verdadero",
+            "Falso"
+          ],
+          "correcta": 0,
+          "justificacion": "Si el recurso se consigue en el mercado, los rivales pueden comprarlo y la ventaja desaparece. La baja transferibilidad hace más sostenible la ventaja."
+        },
+        {
+          "id": "S2.18",
+          "pregunta": "En una alianza estratégica, el socio más grande tiene autoridad formal sobre los demás socios. ¿Verdadero o falso?",
+          "opciones": [
+            "Verdadero",
+            "Falso"
+          ],
+          "correcta": 1,
+          "justificacion": "En la cooperación no hay relaciones de autoridad entre socios: por eso hacen falta objetivos claros y mecanismos de resolución de conflictos."
+        }
+      ]
     }
   ]
 }
