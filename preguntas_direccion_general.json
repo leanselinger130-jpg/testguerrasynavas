@@ -1641,5 +1641,270 @@
         }
       ]
     }
+  ],
+  "parciales": [
+    {
+      "id": "t3",
+      "titulo": "Test Estrategia · Tema 3",
+      "nota": "Preguntas de un parcial anterior. Las respuestas fueron revisadas: en 5 la marcada en la hoja estaba mal.",
+      "preguntas": [
+        {
+          "id": "T3.1",
+          "pregunta": "Un desafío clave en la gestión de fusiones y adquisiciones es el diseño de la integración organizativa y cultural. ¿Verdadero o falso?",
+          "opciones": [
+            "Falso",
+            "Verdadero"
+          ],
+          "correcta": 1,
+          "justificacion": "La integración de los sistemas organizativo, cultural y productivo es la dificultad típica del desarrollo externo: por eso muchas fusiones rinden menos de lo esperado.",
+          "marcada_en_hoja": 1
+        },
+        {
+          "id": "T3.2",
+          "pregunta": "La creación de valor en empresas diversificadas solo se logra a través de la reducción de costos. ¿Verdadero o falso?",
+          "opciones": [
+            "Verdadero",
+            "Falso"
+          ],
+          "correcta": 1,
+          "justificacion": "La oficina central crea valor por cuatro vías: influencia individual, interrelaciones entre negocios (sinergias), servicios centrales y desarrollo corporativo. No se limita a reducir costos.",
+          "marcada_en_hoja": 1
+        },
+        {
+          "id": "T3.3",
+          "pregunta": "¿Cuál de los siguientes es un elemento clave de la estructura organizativa para la implantación estratégica?",
+          "opciones": [
+            "Liderazgo en costes",
+            "Segmentación de mercado",
+            "Diferenciación de productos",
+            "División del trabajo y mecanismos de coordinación"
+          ],
+          "correcta": 3,
+          "justificacion": "La estructura organizativa se define por cómo se divide el trabajo y cómo se coordina. Las otras opciones son estrategias competitivas, no elementos de la estructura.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.4",
+          "pregunta": "¿Cuál es el papel de los recursos humanos en la implantación estratégica?",
+          "opciones": [
+            "Selectividad en las actividades de contratación de personal",
+            "Reducir la rotación de personal",
+            "Gestionar la nómina y los beneficios",
+            "Alinear las habilidades y la motivación del personal a los objetivos estratégicos"
+          ],
+          "correcta": 3,
+          "justificacion": "Los RRHH son un sistema de apoyo a la implantación: deben lograr que las personas tengan las capacidades y la motivación que exige la estrategia. Las demás son tareas operativas parciales.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.5",
+          "pregunta": "¿Cómo influye la cultura organizativa en la implantación de la estrategia?",
+          "opciones": [
+            "Enfocándose solo en ciertos productos o mercados",
+            "Limitando la innovación tecnológica",
+            "Moldeando el comportamiento de los empleados y la resistencia al cambio",
+            "Afectando los costos"
+          ],
+          "correcta": 2,
+          "justificacion": "La cultura (normas, valores y creencias compartidas) guía la conducta del personal: si es coherente con la estrategia facilita la implantación; si no, genera resistencia y la frena.",
+          "marcada_en_hoja": 2
+        },
+        {
+          "id": "T3.6",
+          "pregunta": "Una empresa de desarrollo de software había planificado una estrategia de lanzamiento detallada (estrategia deliberada), pero en respuesta a un competidor modifica rápidamente su calendario y las características del producto. Esta respuesta espontánea ante un cambio no planificado es un ejemplo de:",
+          "opciones": [
+            "Estrategia corporativa",
+            "Reformulación de la misión",
+            "Estrategia emergente",
+            "Racionalidad limitada"
+          ],
+          "correcta": 2,
+          "justificacion": "La estrategia emergente surge sobre la marcha, como respuesta a cambios no previstos, y se aparta de la deliberada (la planificada). La racionalidad limitada es la imposibilidad de conocer todas las alternativas y resultados: es la respuesta de la pregunta 7, no de esta.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.7",
+          "pregunta": "Un equipo de dirección debe tomar una decisión crucial sobre una nueva inversión, pero el mercado es altamente incierto y la información es incompleta. Los directivos saben que no pueden considerar todas las alternativas ni prever todos los resultados. Esta situación en la toma de decisiones se conoce como:",
+          "opciones": [
+            "Adaptación financiera",
+            "Estrategia deliberada",
+            "Racionalidad limitada",
+            "Visión integradora"
+          ],
+          "correcta": 2,
+          "justificacion": "Racionalidad limitada: los directivos deciden con información incompleta y capacidad limitada para procesarla, por lo que no pueden evaluar todas las alternativas ni sus consecuencias. \"Adaptación financiera\" no es un concepto de la materia.",
+          "marcada_en_hoja": 0
+        },
+        {
+          "id": "T3.8",
+          "pregunta": "Una empresa petrolera decide construir varios escenarios futuros posibles (por ejemplo, \"Escenario 1: tendencia alcista del precio del petróleo\") ante la alta incertidumbre. Esta metodología se emplea para:",
+          "opciones": [
+            "Predecir el impacto de los insumos estratégicos",
+            "Explorar posibles futuros para la toma de decisiones",
+            "Analizar factores externos para confeccionar el FODA",
+            "Extrapolar tendencias de mercado"
+          ],
+          "correcta": 1,
+          "justificacion": "El método de los escenarios es una técnica prospectiva: no predice un único futuro ni extrapola tendencias, sino que plantea varios futuros posibles para decidir en entornos inciertos.",
+          "marcada_en_hoja": 1
+        },
+        {
+          "id": "T3.9",
+          "pregunta": "En la industria del streaming de video, las barreras de entrada son relativamente bajas, pero las empresas establecidas se benefician de las economías de escala de la producción masiva de contenido y de las vastas redes de distribución. Estas economías de escala actúan como:",
+          "opciones": [
+            "Un aumento de la rivalidad en la industria",
+            "Una alta barrera de salida",
+            "Una fuente de poder sobre los proveedores",
+            "Una barrera de entrada para nuevos competidores"
+          ],
+          "correcta": 3,
+          "justificacion": "Las economías de escala obligan al entrante a producir a gran escala o a soportar costes mayores: son una barrera de entrada clásica del modelo de Porter.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.10",
+          "pregunta": "En el mercado de las bebidas energéticas, los competidores ofrecen productos muy similares, la demanda está estancada y hay una alta capacidad de producción instalada. Estas condiciones contribuyen a:",
+          "opciones": [
+            "Una alta amenaza de sustitutos",
+            "Un bajo poder de negociación de los proveedores",
+            "Una alta intensidad de la competencia (rivalidad)",
+            "Un bajo riesgo de entrada"
+          ],
+          "correcta": 2,
+          "justificacion": "Productos poco diferenciados, crecimiento lento de la demanda y exceso de capacidad son tres determinantes clásicos de una rivalidad alta. Nada de eso habla de sustitutos ni de la amenaza de entrada.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.11",
+          "pregunta": "Una fábrica líder en el mercado de componentes electrónicos reduce su costo unitario un 20% al duplicar su producción acumulada. Este fenómeno clave se debe a:",
+          "opciones": [
+            "Su estrategia de diferenciación",
+            "Su poder de negociación con proveedores",
+            "Su estrategia de enfoque en costos",
+            "Su efecto experiencia / curva de aprendizaje"
+          ],
+          "correcta": 3,
+          "justificacion": "La curva de experiencia dice que el coste unitario cae un porcentaje constante cada vez que se duplica la producción acumulada. Es una fuente del liderazgo en costes.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.12",
+          "pregunta": "Una empresa crea un nuevo mercado de servicios de movilidad compartida en ciudades turísticas, donde la competencia es inexistente y las barreras de entrada son muy bajas. Este acto de crear un espacio de mercado no disputado y redefinir el valor se conoce como:",
+          "opciones": [
+            "Estrategia de océano rojo",
+            "Liderazgo en diferenciación",
+            "Estrategia de océano azul",
+            "Diversificación horizontal"
+          ],
+          "correcta": 2,
+          "justificacion": "El océano azul crea un espacio de mercado sin competencia, frente al océano rojo, donde se compite en mercados ya existentes y saturados.",
+          "marcada_en_hoja": 2
+        },
+        {
+          "id": "T3.13",
+          "pregunta": "La casa matriz, mediante un análisis con la matriz McKinsey, decide en qué nuevos sectores (negocios) debe entrar, cuáles debe mantener y cuáles debe abandonar, con el objetivo de componer una cartera de negocios globalmente más rentable. Esta decisión es el núcleo de la:",
+          "opciones": [
+            "Estrategia de segmentación",
+            "Estrategia de finanzas",
+            "Estrategia competitiva",
+            "Estrategia corporativa"
+          ],
+          "correcta": 3,
+          "justificacion": "Decidir en qué negocios estar y cómo componer la cartera es la esencia de la estrategia corporativa. La competitiva trata de cómo competir dentro de cada negocio.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.14",
+          "pregunta": "Un fabricante argentino de snacks decide vender sus productos en Brasil contratando a una empresa de gestión de exportaciones con sede en Buenos Aires, que se encarga de la logística y la distribución. Esta es una forma de:",
+          "opciones": [
+            "Exportación directa",
+            "Joint venture",
+            "Exportación indirecta",
+            "Consorcio de exportación"
+          ],
+          "correcta": 2,
+          "justificacion": "En la exportación indirecta la empresa vende a través de un intermediario de su propio país, que se ocupa de la operación. En la directa, la empresa gestiona la venta al exterior por sí misma.",
+          "marcada_en_hoja": 2
+        },
+        {
+          "id": "T3.15",
+          "pregunta": "El director financiero de una empresa utiliza una herramienta que mide la rentabilidad económica e incluye la tasa de retención de clientes, el porcentaje de productos defectuosos y las horas de formación de los empleados. Esta herramienta de gestión se denomina:",
+          "opciones": [
+            "Dashboard financiero",
+            "Balance de situación",
+            "Auditoría operativa",
+            "Cuadro de mando integral"
+          ],
+          "correcta": 3,
+          "justificacion": "El cuadro de mando integral combina indicadores de cuatro perspectivas: financiera (rentabilidad), clientes (retención), procesos internos (defectos) y aprendizaje y crecimiento (formación).",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.16",
+          "pregunta": "¿Qué se entiende por \"efecto o curva de experiencia\" en el contexto de la ventaja competitiva en costos?",
+          "opciones": [
+            "La reducción de costos fijos por economías de escala",
+            "La reducción de costos unitarios a medida que aumenta la producción acumulada",
+            "La mejora de la eficiencia de la cadena de suministro",
+            "La habilidad de la empresa para aprender de los errores pasados"
+          ],
+          "correcta": 1,
+          "justificacion": "El efecto experiencia es la caída del coste unitario a medida que crece la producción acumulada (es lo mismo que describe la pregunta 11). Aprender de los errores es una idea vaga que no define el concepto, y las economías de escala dependen del volumen por período, no del acumulado.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.17",
+          "pregunta": "Una empresa de alimentación decide empezar a vender sus productos a través de una plataforma online propia y abrir pequeñas tiendas de marca, además de supermercados. ¿Qué dirección de desarrollo está siguiendo principalmente?",
+          "opciones": [
+            "Penetración en el mercado",
+            "Desarrollo de mercados",
+            "Diversificación relacionada",
+            "Desarrollo de productos"
+          ],
+          "correcta": 0,
+          "justificacion": "Vende los mismos productos a los mismos consumidores, sumando canales para aumentar ventas: es penetración en el mercado. Sería desarrollo de mercados si con esos canales llegara a clientes nuevos (otro país u otro segmento). Es la pregunta más discutible del parcial: algunos manuales cuentan los canales nuevos como desarrollo de mercados.",
+          "marcada_en_hoja": 0
+        },
+        {
+          "id": "T3.18",
+          "pregunta": "Una industria de dispositivos electrónicos ha pasado a una fase donde la competencia en precios es feroz y las empresas se centran en la eficiencia de costes y en pequeñas mejoras incrementales. ¿En qué etapa del ciclo de vida se encuentra esta industria?",
+          "opciones": [
+            "Emergente",
+            "Crecimiento",
+            "Madurez",
+            "Declive"
+          ],
+          "correcta": 2,
+          "justificacion": "En la madurez la demanda deja de crecer, el producto se estandariza y la competencia pasa a ser en precios y costes, con innovaciones incrementales.",
+          "marcada_en_hoja": 2
+        },
+        {
+          "id": "T3.19",
+          "pregunta": "Una marca de automóviles de lujo decide aplicar una estrategia transnacional. ¿Cuál de las siguientes acciones sería más coherente con esta estrategia?",
+          "opciones": [
+            "Limitarse a exportar los coches fabricados en su país de origen sin realizar ninguna modificación",
+            "Vender exactamente el mismo modelo de coche en todo el mundo para maximizar las economías de escala",
+            "Crear un diseño de coche completamente diferente para cada país, fabricado localmente",
+            "Diseñar una plataforma de vehículo global para reducir costes, pero permitir adaptaciones locales en el motor y el diseño interior"
+          ],
+          "correcta": 3,
+          "justificacion": "La transnacional combina eficiencia global y adaptación local. a) es la internacional, b) la global y c) la multidoméstica.",
+          "marcada_en_hoja": 3
+        },
+        {
+          "id": "T3.20",
+          "pregunta": "La casa central de una empresa diversificada centraliza las compras de materias primas comunes para todas sus unidades de negocio, logrando descuentos por volumen. ¿De qué manera está creando valor la oficina central?",
+          "opciones": [
+            "Mediante la influencia en las interrelaciones entre negocios",
+            "Mediante la prestación de servicios y funciones centrales",
+            "Reestructurando la cartera de negocios",
+            "Otorgando una ventaja de matriz sobre los rivales"
+          ],
+          "correcta": 1,
+          "justificacion": "La oficina central asume ella misma una función (compras) y la presta a todas las unidades con economías de escala: es un servicio central. La ventaja de matriz es el resultado de crear más valor que las matrices rivales, no una de las cuatro formas de crearlo.",
+          "marcada_en_hoja": 3
+        }
+      ]
+    }
   ]
 }

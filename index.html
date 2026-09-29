@@ -69,6 +69,8 @@
   .result.show{display:block}
   .result h2{margin:0 0 6px}
   .empty{text-align:center;color:var(--muted);padding:40px 0}
+  .sep{flex:0 0 auto;align-self:center;width:1px;height:26px;background:var(--border);margin:0 4px}
+  .note{font-size:.85rem;color:var(--muted);margin-top:6px}
 </style>
 </head>
 <body>
@@ -96,6 +98,7 @@ const $ = id => document.getElementById(id);
 const LETTERS = "abcd";
 const INTEG = "integradora";
 let BLOQUES = [];
+let PARCIALES = [];     // parciales anteriores: pestañas con id "p:<id>"
 let current = null;
 let state = {};   // estado por pestaña: { items:[...], answers:{key:opcion} }
 
@@ -105,14 +108,20 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":
 function itemsFor(tab){
   const tag = b => q => ({...q, bloque:b, key:q.id});
   if (tab === INTEG) return shuffle(BLOQUES.flatMap(b => b.preguntas.map(tag(b))));
+  if (tab.startsWith("p:")) return parcialOf(tab).preguntas.map(q => ({...q, key:q.id}));
   const b = BLOQUES.find(b => String(b.id) === tab);
   return b.preguntas.map(tag(b));
 }
+function parcialOf(tab){ return PARCIALES.find(p => "p:"+p.id === tab); }
 function ensure(tab){ if(!state[tab]) state[tab] = { items:itemsFor(tab), answers:{} }; return state[tab]; }
 
 function renderTabs(){
   $("tabs").innerHTML = "";
-  [...BLOQUES.map(b=>[String(b.id),"Bloque "+b.id]), [INTEG,"🔀 Prueba Integradora"]].forEach(([id,name])=>{
+  const tabs = [...BLOQUES.map(b=>[String(b.id),"Bloque "+b.id]), [INTEG,"🔀 Prueba Integradora"]];
+  if (PARCIALES.length) tabs.push(null, ...PARCIALES.map(p=>["p:"+p.id,"📝 "+p.titulo]));
+  tabs.forEach(t=>{
+    if (!t){ const s = document.createElement("span"); s.className = "sep"; $("tabs").appendChild(s); return; }
+    const [id,name] = t;
     const b = document.createElement("button");
     b.textContent = name;
     b.className = id===current ? "active" : "";
@@ -126,6 +135,11 @@ function renderTabs(){
 function renderHead(){
   if (current === INTEG){
     $("head").innerHTML = `<h2>Prueba Integradora</h2><p>Todas las preguntas de todos los bloques, en orden aleatorio.</p>`;
+    return;
+  }
+  if (current.startsWith("p:")){
+    const p = parcialOf(current);
+    $("head").innerHTML = `<h2>Parcial anterior: ${esc(p.titulo)}</h2><p>${esc(p.nota || "")}</p>`;
     return;
   }
   const b = BLOQUES.find(b => String(b.id) === current);
@@ -170,6 +184,9 @@ function paint(card, it, choice){
     const d = document.createElement("div");
     d.className = "just" + (ok ? "" : " bad");
     d.innerHTML = `<strong>${ok ? "✅ ¡Correcto!" : "❌ Incorrecto — la respuesta correcta es la "+LETTERS[it.correcta]+")"}</strong>${esc(it.justificacion)}`;
+    /* en los parciales, avisar cuando la respuesta marcada en la hoja original estaba mal */
+    if (it.marcada_en_hoja !== undefined && it.marcada_en_hoja !== it.correcta)
+      d.innerHTML += `<div class="note">📌 En la hoja del parcial estaba marcada la ${LETTERS[it.marcada_en_hoja]}), que es incorrecta.</div>`;
     card.appendChild(d);
   }
 }
@@ -205,6 +222,7 @@ fetch(DATA_URL)
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(d => {
     BLOQUES = d.bloques;
+    PARCIALES = d.parciales || [];
     current = String(BLOQUES[0].id);
     renderTabs(); render();
   })
